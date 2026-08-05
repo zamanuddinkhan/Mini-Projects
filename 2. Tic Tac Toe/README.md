@@ -57,7 +57,7 @@ If a small Tkinter window opens, you're ready to run the project.
 Navigate to the project folder:
 
 ```bash
-cd "C:\Users\Zamanuddin Khan\Downloads\Coding Area\Projects\Tic-Tac-Toe"
+cd "Folder_Path"
 ```
 
 Run the program:
