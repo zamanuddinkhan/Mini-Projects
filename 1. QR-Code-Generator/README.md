@@ -47,10 +47,6 @@ py -m pip install qrcode[pil]
 
 Navigate to the project folder:
 
-```bash
-cd "C:\Users\Zamanuddin Khan\Downloads\Coding Area\Projects\QR-Code-Generator"
-```
-
 Run the program:
 
 ```bash
@@ -69,11 +65,6 @@ https://github.com
 ```
 
 ### Output
-
-```text
-QR Code saved successfully at:
-C:\Users\Zamanuddin Khan\Downloads\Coding Area\Projects\QR-Code-Generator\qrcode.png
-```
 
 Generated file:
 
