@@ -7,5 +7,5 @@ This repository contains a collection of beginner-friendly projects built while 
 | 1 | QR Code Generator | Generate QR codes from any URL and save them as PNG images using Python. |
 | 2 | Tic-Tac-Toe Game | A simple two-player Tic-Tac-Toe game built with Python and Tkinter featuring winner detection, draw detection, and a reset option. |
 | 3 | Digital Clock | A simple digital clock built with Python and Tkinter that displays the current time, AM/PM, and date, updating automatically every second. |
-| 4 |
-| 5 |
+| 4 | Unit Converter | A Python and Tkinter desktop application for converting length, weight, time, and temperature units with input validation and a simple graphical interface. |
+| 5 | | |
