@@ -8,4 +8,4 @@ This repository contains a collection of beginner-friendly projects built while 
 | 2 | Tic-Tac-Toe Game | A simple two-player Tic-Tac-Toe game built with Python and Tkinter featuring winner detection, draw detection, and a reset option. |
 | 3 | Digital Clock | A simple digital clock built with Python and Tkinter that displays the current time, AM/PM, and date, updating automatically every second. |
 | 4 | Unit Converter | A Python and Tkinter desktop application for converting length, weight, time, and temperature units with input validation and a simple graphical interface. |
-| 5 | | |
+| 5 | Secure Password Generator | Generate random passwords of a user-defined length using letters, numbers, and special characters with Python's `secrets` and `string` modules. |
