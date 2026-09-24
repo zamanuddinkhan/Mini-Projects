@@ -9,3 +9,4 @@ This repository contains a collection of beginner-friendly projects built while 
 | 3 | Digital Clock | A simple digital clock built with Python and Tkinter that displays the current time, AM/PM, and date, updating automatically every second. |
 | 4 | Unit Converter | A Python and Tkinter desktop application for converting length, weight, time, and temperature units with input validation and a simple graphical interface. |
 | 5 | Secure Password Generator | Generate random passwords of a user-defined length using letters, numbers, and special characters with Python's `secrets` and `string` modules. |
+| 6 | To-Do App | A simple task management application built with Python that allows users to add, update, delete, and view tasks through an interactive menu. |
